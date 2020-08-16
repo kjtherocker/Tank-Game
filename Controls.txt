@@ -1,0 +1,6 @@
+Fire Space bar
+
+Move Arrow Keys
+
+Turn tank angle 
+VB
